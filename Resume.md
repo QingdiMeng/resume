@@ -1,5 +1,4 @@
 # 孟庆迪
----
 TEL: +86 134-2611-8139  
 mailto: qingdi_meng@163.com  
 https://www.linkedin.com/in/qingdi-meng-43103578  
