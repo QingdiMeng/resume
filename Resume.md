@@ -1,5 +1,5 @@
 # 孟庆迪
-13426118139 (qingdi_meng@163.com) [https://www.linkedin.com/in/qingdi-meng-43103578]
+联系方式: 13426118139 (qingdi_meng@163.com) [https://www.linkedin.com/in/qingdi-meng-43103578]
 
 ## 工作经历
 
