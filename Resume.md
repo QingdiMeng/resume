@@ -1,11 +1,10 @@
 # 孟庆迪
-TEL: +86 134-2611-8139  
-mailto: qingdi_meng@163.com  
-https://www.linkedin.com/in/qingdi-meng-43103578  
+13426118139 (qingdi_meng@163.com) [https://www.linkedin.com/in/qingdi-meng-43103578]
 
 ## 工作经历
 
 ### 2018.11-目前，VIVO北京AI研究院搜索架构
+
 
 ### 2017.03-2018.10，MIUI商业产品部算法平台服务研发
 - 负责商业产品部CTR预估服务研发和持续优化工作，承接内部DSP广告预估请求，QPS峰值3w+，日均请求量15亿次以上，延迟p99低于45ms
